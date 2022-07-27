@@ -1,0 +1,10 @@
+
+
+
+<form method="post" action="" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table>
+        {{ form.as_p }}
+    </table>
+    <input value="submit" type="submit"/>
+</form>

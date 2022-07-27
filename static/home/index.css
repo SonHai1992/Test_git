@@ -1,0 +1,28 @@
+
+
+
+ td{
+        width: 30%;
+    }
+.container{
+    margin-bottom:10px;
+}
+
+
+.div2{
+    border: #456345 solid 1px;
+    text-align: center;
+    width:50%;
+    overflow: auto;
+    height:600px;
+    margin-left: 200px;
+
+
+}
+.tab{
+    height: 50vh;
+    width:100%;
+}
+h1{
+    text-align: center;
+}
